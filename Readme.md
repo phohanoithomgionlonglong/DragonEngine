@@ -77,7 +77,7 @@ You are free to:
 - Adapt – remix, transform, and build upon the material
 
 Under the following terms:
-- **Attribution** – You must give appropriate credit to [Your Full Name], provide a link to the license, and indicate if changes were made.
+- **Attribution** – You must give appropriate credit to Nguyễn Thành Long provide a link to the license, and indicate if changes were made.
 - **NonCommercial** – You may not use the material for commercial purposes.
 - **ShareAlike** – If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
